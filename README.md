@@ -1,3 +1,3 @@
 # LAB-ITT440
 
-Lab Assignment for ITT440 (Network Programming) lab
+Lab Exercise for ITT440 (Network Programming) lab
